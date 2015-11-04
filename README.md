@@ -1,2 +1,3 @@
 # sails1
-Test app to build docker image
+
+a [Sails](http://sailsjs.org) application
